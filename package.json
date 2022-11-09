@@ -1,5 +1,6 @@
 {
   "name": "pw2-projetfinal-partie2",
+  "homepage": "http://firebase-auth.jonathan-nadeau.ca/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
