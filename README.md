@@ -1,6 +1,6 @@
-# Getting Started with Create React App and Redux
+# Google Firebase
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+Website made as part of the attestation of College studies in frontend web development. This application use [Google Firebase](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiwucSR5p_7AhW09-MHHXJVDuUYABABGgJ5bQ&ohost=www.google.com&cid=CAESauD25UGnTL8lKadAZK_JTI_SXWPMMezSpE8m0csrQd_sewwrh8nhdrP2C4PIPdHOKO8bxrZdLlgKx27MeG0YwApGK6OE2shMhz_BQ0c2COk1pXUmiNiAOHCEyLCgw90hgiQh1_CyxmHZuiE&sig=AOD64_3U9jn6bFevEpKMHoKgztLuqET78Q&q&adurl&ved=2ahUKEwint7uR5p_7AhVojIkEHeN3CxEQ0Qx6BAgGEAE) to authenticate users.
 
 ## Available Scripts
 
@@ -13,11 +13,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `npm run build`
 
